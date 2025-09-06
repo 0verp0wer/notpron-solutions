@@ -8,9 +8,10 @@
 ![Level 1](../images/level1.png)
 
 ## Solution
-The first level asks you to enter the door, so I did the most intuitive thing possible: I clicked on the door and level 1 solved
+The first level asks you to enter the door, so I did the most intuitive thing possible: I clicked on the door — and boom, level 1 completed!
 
 ---
 
 
 _Time taken: 2 seconds_
+
