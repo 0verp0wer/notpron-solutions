@@ -15,3 +15,5 @@
 ## [Level 6](levels/level6.md)
 
 ## [Level 7](levels/level7.md)
+
+## [Level 8](levels/level8.md)
