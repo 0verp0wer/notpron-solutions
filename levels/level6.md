@@ -24,7 +24,7 @@ After that I clicked on the white circle on the pipe to enter the credentials fo
 
 ![Level 6 hint](../images/level6_hint.png)
 
-So I started to make the anagram of the two words and I found the respective results (kill and zone), after which I entered them as username and password — and boom, level 6 completed!
+So I started to make the anagram of the two words and I found the respective results (kill and zone), after that I entered them as username and password — and boom, level 6 completed!
 
 ---
 
