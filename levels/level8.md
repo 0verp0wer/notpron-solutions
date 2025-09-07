@@ -20,7 +20,7 @@ Having noticed that it was created with Photoshop, the first thing I did was cha
 
 ![Level 8 credentials](../images/level8_credentials.png)
 
-After which I clicked on the guitar and entered the credentials — and boom, level 8 completed!
+After that I clicked on the guitar and entered the credentials — and boom, level 8 completed!
 
 ---
 
