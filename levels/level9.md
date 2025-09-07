@@ -5,7 +5,7 @@
 **Difficulty:** Very easy
 
 ## Preview
-![Level 9](../images/level8.png)
+![Level 9](../images/level9.png)
 
 ## Solution
 Again I opened the developer tools to inspect the code and that's where I noticed that there were some letters that were assigned the class not
