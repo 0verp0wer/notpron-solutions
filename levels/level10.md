@@ -17,4 +17,4 @@ after doing a little research i found out that sndrec32.exe was an audio recorde
 ---
 
 
-_Time taken: 1 minute_
+_Time taken: 5 minutes_
