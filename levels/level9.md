@@ -12,7 +12,7 @@ Again I opened the developer tools to inspect the code and that's where I notice
 
 ![Level 9 inspected](../images/level9_inspected.png)
 
-If we take all the letters with not before the br and after the br we get the words turnmeon and deadman, after which I clicked on the 9 in the image and entered these credentials — and boom, level 9 completed!
+If we take all the letters with not before the br and after the br we get the words turnmeon and deadman, after that I clicked on the 9 in the image and entered these credentials — and boom, level 9 completed!
 
 ---
 
