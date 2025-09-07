@@ -16,7 +16,7 @@ From the inspected code we can notice two things, the first thing is the comment
 
 ![Level 3 gif](../images/level3_gif.png)
 
-As you can see in the image, the gif contains the writing "stop being so negative", after which I went to recheck the url looking for something negative and I noticed the word false, the first thing I did was change the false to true — and boom, level 3 completed!
+As you can see in the image, the gif contains the writing "stop being so negative", after that I went to recheck the url looking for something negative and I noticed the word false, the first thing I did was change the false to true — and boom, level 3 completed!
 
 ---
 
