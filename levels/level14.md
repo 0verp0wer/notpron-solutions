@@ -5,7 +5,7 @@
 **Difficulty:** Hard
 
 ## Preview
-![Level 14](../images/level4.png)
+![Level 14](../images/level14.png)
 
 ## Solution
 This was the first really complicated level I found, as usual I tried to use the developer tools but in this case the suggestions were very ambiguous
