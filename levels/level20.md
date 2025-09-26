@@ -10,9 +10,7 @@
 ## Solution
 Honestly, I thought I'd be stuck at this level forever, in fact, when I opened the developer tools, nothing useful was found, and in fact, this level was solved by luck and thanks to the help of the AI.
 
-You should know that I hate math and I'm one of those people who thinks math isn't necessary to be a good programmer, however, getting back to us, I thought I'd be stuck at this level forever because I thought math was required, and this hatred of math helped me, in fact, 
-
-I skipped all the numbered parts and started with an idea: if you notice in the image, there are two lines made up of letters/numbers/symbols, so the first thing I did was think these were the credentials, so I started with the part that seemed easiest to decode, namely the symbols, what I did was ask chatgpt for fonts that replaced letters/numbers with special characters, and chatgpt suggested Wingdings as the first result.
+You should know that I hate math and I'm one of those people who thinks math isn't necessary to be a good programmer, however, getting back to us, I thought I'd be stuck at this level forever because I thought math was required, and this hatred of math helped me, in fact, I skipped all the numbered parts and started with an idea: if you notice in the image, there are two lines made up of letters/numbers/symbols, so the first thing I did was think these were the credentials, so I started with the part that seemed easiest to decode, namely the symbols, what I did was ask chatgpt for fonts that replaced letters/numbers with special characters, and chatgpt suggested Wingdings as the first result.
 
 What I did was go to this [website](https://lingojam.com/WingdingsTranslator) and start typing all the characters.
 
