@@ -5,16 +5,16 @@
 **Difficulty:** Easy
 
 ## Preview
-![Level 21](../images/level21.jpg)
+![Level 21](../images/level21.png)
 
 ## Solution
 This level was particularly easy but would have taken a long time to solve manually and like always I opened the developer tools
 
-![Level 21 inspected](../images/level21_inspected.jpg)
+![Level 21 inspected](../images/level21_inspected.png)
 
 As you can see from the inspected code you see an image called white.jpg, in the start level image you can see some color names written, so I did the most obvious thing to do which was to replace white with the name of those colors and I got this:
 
-![Level 21 blue](../images/level21_blue.jpg)
+![Level 21 blue](../images/level21_blue.png)
 
 Each color is associated with an image containing a path and therefore the most obvious thing to do is to complete the path by joining the various images, but doing it manually would have taken too much time, so I created a python code that did it for me:
 
