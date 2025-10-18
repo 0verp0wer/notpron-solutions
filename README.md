@@ -43,3 +43,5 @@
 ## [Level 20](levels/level20.md)
 
 ## [Level 21](levels/level21.md)
+
+## [Level 22](levels/level22.md)
