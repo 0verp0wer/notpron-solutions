@@ -49,3 +49,5 @@
 ## [Level 23](levels/level23.md)
 
 ## [Level 24](levels/level24.md)
+
+## [Level 25](levels/level25.md)
